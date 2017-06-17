@@ -6,7 +6,9 @@ Musicociel is an application to display song lyrics and guitar chords.
 
 ## Installation
 
-You can install/use it from different sources:
+You can install/use it from one of the following sources:
+
+* Install it with [F-Droid](https://f-droid.org) from the following repository: [https://musicociel.github.io/fdroid/repo](https://musicociel.github.io/fdroid/repo)
 
 * Install it from [Google Play](https://play.google.com/store/apps/details?id=fr.musicociel)
 
